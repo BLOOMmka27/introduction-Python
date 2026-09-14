@@ -1,0 +1,11 @@
+print("gimme 5 notes out of 20")
+n1=float (input())
+print("another one ")
+n2=float (input())
+print("a third one")
+n3=float (input())
+print("a fourth one")
+n4=float (input())
+print("a fifth one")
+n5=float (input())
+print("la moyenne de tous c'est nombre est"+
