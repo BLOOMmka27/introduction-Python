@@ -1,0 +1,7 @@
+print("yo give me give me some time to think... huy sorriiiii give me 3 numbers")
+number1=float (input())
+print("another one")
+number2=float (input())
+print("and a last one")
+number3=float (input())
+print("okeeyyy the total of the numbers is "+ str(number1+number2+number3))
